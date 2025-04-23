@@ -8,3 +8,15 @@ This proposed work outlines the development of a coconut disease detection syste
 The project is implemented using Python, with a deep learning and ML models developed using Tensor Flow and Keras and many more for detecting diseases in coconut crops. The user interface is built with Flask, providing an accessible platform for users to upload images and interact with the system. 
 The proposed work is validated through evaluation metrics, including confusion matrices and ROC curves.  VGG-16 DL model exhibited highest performance by achieving 99% accuracy rate and RF, KNN and Logistic regression with  SIFT features  exhibited cent percent accuracy in detection of 6 type of coconut diseases. 
 SIFT features proved to be better than GLCM features for traditional ML models and VGG16 proved to be best among DL models for coconut disease detection.  Further future enhancements could involve developing a full-featured mobile application equipped with real-time image processing capabilities.
+
+
+images of diseases ofcoconut crop
+
+![BudRot001](https://github.com/user-attachments/assets/66678d04-e2aa-4791-ad9a-788d4cf1c11d)
+![BudRootDropping014](https://github.com/user-attachments/assets/1fb61bd1-d9f0-402b-b75e-654d66715267)
+![CCI_1_50_jpg rf 1bb690495c45b9789e4b5c3e6e8012d6](https://github.com/user-attachments/assets/094fc388-3cfc-4810-9e27-b04f2d5c3bda)
+![GrayLeafSpot400](https://github.com/user-attachments/assets/fc2ebb19-5075-4c08-89c1-d85300f715ca)
+![StemBleeding014](https://github.com/user-attachments/assets/403cd47e-06c5-4a3c-a7d2-78803a5bbf1a)
+![f_aug_0_120](https://github.com/user-attachments/assets/e12d03e6-695e-431e-9e1d-c39ab2d5734c)
+
+
